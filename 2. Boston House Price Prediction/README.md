@@ -11,7 +11,7 @@ In the "Predictive Modeling" section, a basic but thorough description of each a
 If you'd like to view the Jupyter Notebook without downloading the file, simply open this link to nbviewer:  
 [Boston House Prices - Multiple Regression.ipynb](https://nbviewer.jupyter.org/github/Unique-Divine/Regression-Practice/blob/master/2.%20Boston%20House%20Price%20Prediction/Boston%20House%20Prices%20-%20Multiple%20Regression.ipynb#s37)
 
-# Notebook Contents
+## Notebook Contents
 ### 1. Dataset Description
 ### 2. Exploratory Data Analysis
 ### 3. Predictive Modeling
