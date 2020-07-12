@@ -23,4 +23,4 @@ If you'd like **to view the Jupyter Notebook** without downloading the file, sim
 - 3.6 XGBoost Regressor
 - 3.7 Linear Support Vector Regressor
 ### 4. Model Evaluation
-![metrics table](https://github.com/Unique-Divine/Regression-Practice/blob/master/2.%20Boston%20House%20Price%20Prediction/metrics_table.png)
+![metrics table](metrics_table.png)
