@@ -4,4 +4,3 @@ This repository contains a few projects that I originally used for practice with
 
 ### TODO
 - Brainstorm/ask around for ideas for projects 3 & 4 of this repo.
-- Figure out how to convert the dataframe into an image so that you can link it to the README
